@@ -1,0 +1,10 @@
+{
+    "name": "guiyongzhe/composer-tutorial",
+    "authors": [
+        {
+            "name": "guiyongzhe",
+            "email": "guiyongzhe@diditaxi.com.cn"
+        }
+    ],
+    "require": {}
+}
