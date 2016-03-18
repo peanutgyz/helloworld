@@ -7,4 +7,7 @@
         }
     ],
     "require": {}
+    "autoload": {
+        "psr-4": {"Tutorial\\": "src/Tutorial"}
+    }
 }
