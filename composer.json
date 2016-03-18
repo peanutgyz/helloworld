@@ -6,7 +6,7 @@
             "email": "guiyongzhe@diditaxi.com.cn"
         }
     ],
-    "require": {}
+    "require": {},
     "autoload": {
         "psr-4": {"Tutorial\\": "src/Tutorial"}
     }
