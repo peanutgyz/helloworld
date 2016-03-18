@@ -3,7 +3,7 @@
 namespace Tutorial;
 
 class HelloWorld {
-    public static function() {
+    public static function hello() {
         echo "Hello world!";
     }
 }
