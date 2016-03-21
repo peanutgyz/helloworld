@@ -1,7 +1,7 @@
 <?php
 
 class MyHello {
-    function test() {
+    public static function test() {
         echo 'hello';
     }
 }
