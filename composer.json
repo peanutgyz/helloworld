@@ -8,6 +8,9 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {"Tutorial\\": "src/Tutorial"}
+        "psr-4": {
+            "Tutorial\\": "src/Tutorial",
+            "\\" : "src/"
+        }
     }
 }
